@@ -109,7 +109,7 @@ main() {
     echo "🎯 Starting installation process..."
 
     # Step 1: Check machine specs
-    #send_specs
+    # send_specs
 
     # Step 2: Install Docker
     # install_docker
