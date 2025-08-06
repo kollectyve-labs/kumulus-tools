@@ -2,3 +2,4 @@
 .env*
 !.env.example
 mnemonic.txt
+flare-agent-v*
